@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "882751080285",
+    "firebase_url": "https://microcoders-b3e67.firebaseio.com",
+    "project_id": "microcoders-b3e67",
+    "storage_bucket": "microcoders-b3e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882751080285:android:06049930fc521bce",
+        "android_client_info": {
+          "package_name": "com.example.dheeraj.microcoders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882751080285-f6q27kg3ir00saq9h2nu2jr2e1a2a9j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF2N7Y3ePEV4huj2_sKdHY6jB5qBj9afA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
